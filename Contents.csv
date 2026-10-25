@@ -1,0 +1,7 @@
+Worksheet,Contents
+S1 – Data extraction,"Case-level extracted information for 150 tribunal judgments, including claim characteristics, limitation findings, extension decisions and reasoning."
+S2 – Human validation,Independent human coding of 16 sampled judgments for comparison with LLM-extracted information.
+S3 – Principal detail agreement,"Agreement between human and LLM classifications for principal case variables, including comparison counts and agreement statistics."
+S4 – Reasoning factor agreement,Human–LLM agreement on the presence or absence of individual reasoning-factor labels.
+S5 – Factors Materially Weighed,Summary counts and percentages for 16 reasoning-factor categories in unfair-dismissal and discrimination cases.
+S6 – Factors weighed audit,Case-level audit of factor classifications and coding basis using a separate 10-category audit framework.

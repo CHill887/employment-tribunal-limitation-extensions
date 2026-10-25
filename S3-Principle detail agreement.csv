@@ -1,0 +1,18 @@
+Agreement for principal case details,,,,,
+Combined human-versus-LLM agreement for each principal variable,,,,,
+Variable,"Compared, n","Agreed, n","Disagreed, n","Agreement, %",Kappa / alternative
+Tribunal region,14,14,0,100.0,1.00
+Decision date,15,11,4,73.3,0.72
+Claim type,16,12,4,75.0,0.64
+Unfair-dismissal out-of-time finding,16,14,2,87.5,0.78
+Discrimination out-of-time finding,16,13,3,81.2,0.70
+Unfair-dismissal extension requested,16,14,2,87.5,0.76
+Discrimination extension requested,16,14,2,87.5,0.76
+Extension test,16,14,2,87.5,0.80
+Unfair-dismissal extension outcome,16,15,1,93.8,0.87
+Discrimination extension outcome,16,15,1,93.8,0.91
+Claimant representation,14,13,1,92.9,0.84
+Respondent representation,14,14,0,100.0,NE: no variation
+Discrimination grounds (exact set),16,13,3,81.2,Jaccard 0.88
+Delay length (exact days),4,3,1,75.0,Exact-day agreement
+Composite: principal variables,205,179,26,87.3,Descriptive composite
